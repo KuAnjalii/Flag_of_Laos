@@ -1,0 +1,45 @@
+
+.a{
+    background-color:#CE1126;
+    height: 450px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 5px solid azure;
+}
+.a>div{
+    margin-top: 40px;
+    
+    width: 600px;
+    height: 200px;
+    background-color: #002868;
+}
+.a>div>div{
+   position: relative;
+   top: 10px;
+   left: 210px;
+    height: 180px;
+    width:180px;
+    background-color: azure;
+    border-radius: 50%;
+}
+p{
+    text-align: center;
+   
+    
+}
+.f{
+    font-size: 40px;
+    position: relative;
+    
+    font-family: bold;
+}
+.g{
+    font-size: 40px;
+    position: relative;
+    top:70px ;
+    font-family:bold ;
+}
+body{
+    background-color: black;
+}
